@@ -234,8 +234,3 @@ Possible Future Features
 ------------------------
 
 - count number of `HEAD` and `PUT` requests done (for billing purposes)
-
-License
--------
-
-MIT
